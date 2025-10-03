@@ -1,0 +1,11 @@
+{
+    "model": 1,
+    "crop": false,
+    "pad": 0.2,
+    "trn_csv": "C:\\Work\\debug_data\\kaggle_datasets\\batch-4\\trn_df.csv",
+    "tst_csv": "C:\\Work\\debug_data\\kaggle_datasets\\batch-4\\trn_df.csv",
+    "batch_size": 32,
+    "img_size": 224,
+    "epochs": 20,
+    "debug": true
+}

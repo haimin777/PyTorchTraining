@@ -1,0 +1,12 @@
+{
+    "model": 2,
+    "crop": false,
+    "pad": 0.2,
+    "trn_csv": "data/trn_exp-17_pinterest.csv",
+    "tst_csv": "data/tst_exp-1.csv",
+    "batch_size": 32,
+    "img_size": 224,
+    "epochs": 20,
+    "debug": false,
+    "comment": "decrease glare to 0.3, 0.6 no brightnness, change Adam->SGD, init_lr 0.001->0.01"
+}
